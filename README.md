@@ -6,7 +6,7 @@ O estudo compara as bibliotecas Pandas e Polars em tarefas críticas de Engenhar
 O objetivo é fornecer evidências quantificáveis sobre qual framework é mais adequado para ambientes de Ciência de Dados de Alta Demanda (HDL), mitigando riscos de memória e latência.
 
 
-# O Desafio (Challenge-Based Learning)
+# O Desafio (Challenge Based Learning)
 
 O Problema com o crescimento exponencial dos Data Lakes, pipelines baseados em arquiteturas eager e single-thread (como Pandas) enfrentam falhas de memória (OOM) 
 e longos tempos de execução, impactando a agilidade do retreino de modelos de ML.
