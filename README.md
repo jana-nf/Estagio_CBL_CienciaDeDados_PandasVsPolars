@@ -8,7 +8,7 @@ O objetivo é fornecer evidências quantificáveis sobre qual framework é mais 
 
 # O Desafio (Challenge Based Learning)
 
-O Problema com o crescimento exponencial dos Data Lakes, pipelines baseados em arquiteturas eager e single-thread (como Pandas) enfrentam falhas de memória (OOM) 
+O problema com o crescimento exponencial dos Data Lakes, pipelines baseados em arquiteturas eager e single-thread (como Pandas) enfrentam falhas de memória (OOM) 
 e longos tempos de execução, impactando a agilidade do retreino de modelos de ML.
 
 
