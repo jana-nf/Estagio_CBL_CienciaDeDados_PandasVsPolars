@@ -1,8 +1,9 @@
-## Dataset de Benchmarking (50 Milhões de Linhas)
+Dataset de Benchmarking (50 Milhões de Linhas)
 
 O arquivo `benchmark_transactions.parquet` possui 1.38 GB e não pode ser armazenado diretamente no GitHub.
 
 Para reproduzir o estudo, baixe o dataset através do link direto:
-[DOWNLOAD DO DATASET PARQUET AQUI](https://drive.google.com/file/d/1zMXTIAJTGa_2Uy5xzww7ajiPXu_5MqxE/view?usp=drive_link)
+![DOWNLOAD DO DATASET PARQUET AQUI](https://drive.google.com/file/d/1zMXTIAJTGa_2Uy5xzww7ajiPXu_5MqxE/view?usp=drive_link)
 
-Alternativamente, o script de geração de dados sintéticos (`scripts/01_generate_data.py`) pode ser usado para recriar o arquivo em um ambiente com RAM suficiente (como o Google Colab).
+Alternativamente, o script de geração de dados sintéticos (`scripts/01_generate_data.py`) 
+pode ser usado para recriar o arquivo em um ambiente com RAM suficiente (como o Google Colab).
