@@ -71,12 +71,6 @@ Vantagem Polars: O modelo Lazy garante Resiliência contra OOM.
 As otimizações de Projection Pushdown e Predicate Pushdown minimizam o I/O, aumentando a rastreabilidade (Plano de Consulta) e reduzindo a chance de falhas.
 
 
-## Recomendação Estratégica
-
-Novo desenvolvimento (Greenfield): Adotar Polars como padrão para ETL/ELT de alto volume para otimizar custos de infraestrutura (menos RAM) e reduzir latência.
-
-Integração ML: Implementar a arquitetura Dual-Framework, usando Polars para processamento pesado e convertendo o resultado final (df_pl.to_pandas()) 
-apenas para a fase de feeding dos modelos de ML (ex: Scikit-learn).
 
 
 
