@@ -69,11 +69,3 @@ A escolha do framework não é apenas uma questão de velocidade, mas de Qualida
 Vantagem Polars: O modelo Lazy garante Resiliência contra OOM. 
 
 As otimizações de Projection Pushdown e Predicate Pushdown minimizam o I/O, aumentando a rastreabilidade (Plano de Consulta) e reduzindo a chance de falhas.
-
-
-
-
-
-
-Execute o 02_benchmark_t5.py (ou use o notebook Colab) para obter os resultados de tempo e memória
-
